@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/garutilorenzo/ansible-collection-elk)](https://github.com/garutilorenzo/ansible-collection-elk/issues)
+[![GitHub issues](https://img.shields.io/github/issues/garutilorenzo/ansible-collection-elk)](https://github.com/rismalrv/ansible-collection-elk/issues)
 ![GitHub](https://img.shields.io/github/license/garutilorenzo/ansible-collection-elk)
-[![GitHub forks](https://img.shields.io/github/forks/garutilorenzo/ansible-collection-elk)](https://github.com/garutilorenzo/ansible-collection-elk/network)
-[![GitHub stars](https://img.shields.io/github/stars/garutilorenzo/ansible-collection-elk)](https://github.com/garutilorenzo/ansible-collection-elk/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/garutilorenzo/ansible-collection-elk)](https://github.com/rismalrv/ansible-collection-elk/network)
+[![GitHub stars](https://img.shields.io/github/stars/garutilorenzo/ansible-collection-elk)](https://github.com/rismalrv/ansible-collection-elk/stargazers)
 
 <p align="center">
   <img src="https://garutilorenzo.github.io/images/elk-logo.png?" alt="elk-logo"/>
@@ -45,7 +45,7 @@ you can also explore all roles variables [here](docs/ROLES_VARS.md)
 Install from GitHub
 
 ```
-ansible-galaxy collection install git+https://github.com/garutilorenzo/ansible-collection-elk
+ansible-galaxy collection install git+https://github.com/rismalrv/ansible-collection-elk
 ```
 
 ## Examples

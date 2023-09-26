@@ -1,4 +1,4 @@
-namespace: "garutilorenzo"
+namespace: "rismalrv"
 name: "ansible_collection_elk"
 version: "1.0.1"
 readme: "README.md"
@@ -19,7 +19,7 @@ tags:
   - heartbeat
   - apm
 dependencies: {}
-repository: "https://github.com/garutilorenzo/ansible-collection-elk"
-documentation: "https://github.com/garutilorenzo/ansible-collection-elk/blob/master/README.md"
-homepage: "https://github.com/garutilorenzo/ansible-collection-elk"
-issues: "https://github.com/garutilorenzo/ansible-collection-elk/issues"
+repository: "https://github.com/rismalrv/ansible-collection-elk"
+documentation: "https://github.com/rismalrv/ansible-collection-elk/blob/master/README.md"
+homepage: "https://github.com/rismalrv/ansible-collection-elk"
+issues: "https://github.com/rismalrv/ansible-collection-elk/issues"
